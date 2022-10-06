@@ -4,7 +4,7 @@ Created on Wed Jun 30 19:24:41 2021
 
 @author: 周艺莹
 """
-
+## Description:cps09mar dataset is a real data set beased on demographic feature of US citizens.The program uses ridge regression to build model for this dataset.
 import pandas as pd  
 import numpy as np 
 import matplotlib.pyplot as plt  
